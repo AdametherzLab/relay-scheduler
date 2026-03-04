@@ -122,4 +122,4 @@ We love contributions! Fork the repo, make your changes, and submit a PR. Let's 
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © [AdametherzLab]
